@@ -1,8 +1,10 @@
 # Day 01 紀錄
 
 ## 0001 Two Sum
-- 使用 dict 存數字與 index
-- 知識點: dict 查找, enumerate
+- 熟悉 class語法
+- range() 語法複習
+- ChatGPT 建議解
+
 
 ## 0009 Palindrome Number
 - 將數字轉為字串，反轉判斷
